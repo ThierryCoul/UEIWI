@@ -1,4 +1,4 @@
-# Delineating Cambodian Cities and Assessing Their Sustainable Growth with the Inclusive Wealth Index
+## **Delineating Cambodian Cities and Assessing Their Sustainable Growth with the Inclusive Wealth Index**
 
 Codes for the manuscript \`Delineating Cambodian Cities and Assessing Their Sustainable Growth with the Inclusive Wealth Index'.
 
