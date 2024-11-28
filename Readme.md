@@ -11,6 +11,8 @@ If you find meaningful errors in the code or have questions or suggestions, plea
 -   **Upsample_MODIS_Random_Forest.js**: File describing the pipeline used to upsample the MODIS 500m resolution to 30m resolution based on Landsat imageries with Google Earth Engine.
 -   **Random_Forest_of_Landsat.js**: File describing the pipeline used to train Landsata images to rasters with water, urban and open areas with Google Earth Engine.
 -   **Atlas_of_cities.ipynb**: File describing the pipeline used to delineate cities based on raster values with ArcPy on Python.
+-   **Cities Boundaries**: Folder containing the shapefile of the cities created.
+-   **IWI_area_data.csv**: Statistics used for the plots.
 
 ## Python packages required
 
